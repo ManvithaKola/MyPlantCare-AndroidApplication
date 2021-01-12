@@ -1,4 +1,4 @@
-Python Code folder contains 4 python files:
+##Python Code folder contains 4 python files:
 
 Real-time_Temperature_API.py : This program fetches the weather data using a REST API when run and uploads to real-time database(google firebase)
 data_fusion.py : This program collects data from both the sources(Android App and REST API) to integrate and push it to another real-time database
